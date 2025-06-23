@@ -1,6 +1,5 @@
 __pycache__/
 *.py[cod]
-*.so
 .DS_Store
-*.class
+*.pdf
 .vscode/
